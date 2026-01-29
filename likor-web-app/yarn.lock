@@ -6581,12 +6581,12 @@ istanbul-reports@^3.0.2:
     html-escaper "^2.0.0"
     istanbul-lib-report "^3.0.0"
 
-javascript-time-ago@^2.3.2:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/javascript-time-ago/-/javascript-time-ago-2.3.4.tgz#811f203df7998283f4d55305677b40b6e7742779"
-  integrity sha512-Tmy9C4MBGtC19AYhV8updznKqtiRSwJHIbDMeypsy3F0vxqgX5ytln4jwXRLVh82WW6ig4VGegi/Qhykpr4YQw==
+javascript-time-ago@^2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/javascript-time-ago/-/javascript-time-ago-2.6.2.tgz#b66ada9080440c472e53845d7912e9d2e7088045"
+  integrity sha512-gagMB4fetS1M1ZHaxQ9kX2amORXa5Los5PGh8NZzWSKrytz43KnpJlaPFTXbg/R7iPMN7U/6MoevgxqJ0QQ5lA==
   dependencies:
-    relative-time-format "^1.0.5"
+    relative-time-format "^1.1.11"
 
 jest-changed-files@^26.6.1:
   version "26.6.1"
@@ -9870,10 +9870,10 @@ relateurl@^0.2.7:
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
 
-relative-time-format@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/relative-time-format/-/relative-time-format-1.0.5.tgz#3fb7c76ae39156afe0a3a7ff0cb7bf30aa0f0fb6"
-  integrity sha512-MAgx/YKcUQYJpIaWcfetPstElnWf26JxVis4PirdwVrrymFdbxyCSm6yENpfB1YuwFbtHSHksN3aBajVNxk10Q==
+relative-time-format@^1.1.11:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/relative-time-format/-/relative-time-format-1.1.11.tgz#b193d5192434e7c1c6a53e362f811c68a4f18c45"
+  integrity sha512-TH+oV/w77hjaB9xCzoFYJ/Icmr/12+02IAoCI/YGS2UBTbjCbBjHGEBxGnVy4EJvOR1qadGzyFRI6hGaJJG93Q==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
